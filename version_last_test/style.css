@@ -8,22 +8,22 @@ h1 {
     background-color: #808080;
 } */
 
-#tlo {
-    width: 400px;
-    height: 750px;
-    background-color: #808080;
-}
-
-/* div#tlo {
+/* #tlo {
     width: 400px;
     height: 750px;
     background-color: #808080;
 } */
 
+div#tlo {
+    width: 400px;
+    height: 750px;
+    background-color: #808080;
+}
+
 
 div#kwadrat {
     width: 150px;
-    height: 150px;
+    height: 1px;
     background-color: #fea500;
 }
 
