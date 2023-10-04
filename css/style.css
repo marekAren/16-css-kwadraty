@@ -1,0 +1,21 @@
+h1 {
+    color: #fea500;
+}
+
+div#tlo {
+    width: 400px;
+    height: 700px;
+    background-color: #808080;
+}
+
+div#kwadrat {
+    width: 150px;
+    height: 150px;
+    background-color: #fea500;
+}
+
+.kwadrat { 
+    width: 150px;
+    width: 75%;
+    background-color: gold;
+}
