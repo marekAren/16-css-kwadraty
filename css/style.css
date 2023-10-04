@@ -2,7 +2,13 @@ h1 {
     color: white;
 }
 
-div#tlo {
+/* div#tlo {
+    width: 400px;
+    height: 750px;
+    background-color: #808080;
+} */
+
+#tlo {
     width: 400px;
     height: 750px;
     background-color: #808080;
@@ -10,7 +16,7 @@ div#tlo {
 
 div#kwadrat {
     width: 150px;
-    height: 150px;
+    height: 1px;
     background-color: #fea500;
 }
 
