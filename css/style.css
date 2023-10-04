@@ -1,10 +1,10 @@
 h1 {
-    color: #fea500;
+    color: white;
 }
 
 div#tlo {
     width: 400px;
-    height: 700px;
+    height: 750px;
     background-color: #808080;
 }
 
@@ -14,8 +14,8 @@ div#kwadrat {
     background-color: #fea500;
 }
 
-.kwadrat { 
+/* .kwadrat { 
     width: 150px;
     width: 75%;
-    background-color: gold;
-}
+    background-color: gold; */
+/* } */
